@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **mariocamna@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1M3K_x-BCax5n230JmCpbEIJGEkvwEYd_/view](https://drive.google.com/file/d/1M3K_x-BCax5n230JmCpbEIJGEkvwEYd_/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
