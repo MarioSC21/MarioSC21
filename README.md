@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mario Camna</h1>
-<h3 align="center">Backend focused web developer</h3>
+<h3 align="center">Frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mariosc21&theme=onedark)&label=Profile%20views&color=0e75b6&style=flat" alt="mariosc21" /> </p>
 
